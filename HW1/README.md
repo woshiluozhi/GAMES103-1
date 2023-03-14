@@ -31,3 +31,12 @@ https://www.zhihu.com/column/c_1517836039779090432
 
 [Games103_HW_Code/Readme.md at master · mumu-sild/Games103_HW_Code · GitHub](https://github.com/mumu-sild/Games103_HW_Code/blob/master/homework1/Readme.md)
 
+
+
+## shape matching参考
+
+[Meshless Deformations Based on Shape Matching (stanford.edu)](https://graphics.stanford.edu/courses/cs468-05-fall/slides/maksim_deformation_matching_fall_05.pdf)
+
+[图形学物理模拟领域资源整理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/444931303)
+
+https://dl.acm.org/doi/10.1145/1073204.1073216
