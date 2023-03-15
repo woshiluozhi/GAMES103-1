@@ -1,4 +1,9 @@
+# 求解器网站
+
+https://iamhxb.github.io/iamhxb/
+
 # GAMES103 HomeWork 
+
 ## Lab 1: [Angry Bunny](./HW1/) 
 
 - 点击标题查看详情
