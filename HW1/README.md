@@ -40,3 +40,10 @@ https://www.zhihu.com/column/c_1517836039779090432
 [图形学物理模拟领域资源整理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/444931303)
 
 https://dl.acm.org/doi/10.1145/1073204.1073216
+
+## shape matching参考
+
+quadratic.cpp :[Simulation-meshlessDeformations/quadratic.cpp at master · vishaknag/Simulation-meshlessDeformations · GitHub](https://github.com/vishaknag/Simulation-meshlessDeformations/blob/master/quadratic.cpp)
+
+linear.cpp:  [Simulation-meshlessDeformations/linear.cpp at master · vishaknag/Simulation-meshlessDeformations · GitHub](https://github.com/vishaknag/Simulation-meshlessDeformations/blob/master/linear.cpp)
+
