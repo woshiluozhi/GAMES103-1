@@ -10,3 +10,11 @@
 - [cloth.unitypackage](https://community-1252524126.file.myqcloud.com/file/ecommunity-50569124.unitypackage)
 
 ### 提醒️：课程作业不得抄袭，作品点评时查出，成绩作废！
+
+## 参考:
+
+https://www.cnblogs.com/eat-too-much/p/15738191.html
+
+https://www.cnblogs.com/eat-too-much/p/15737925.html
+
+https://zhuanlan.zhihu.com/p/571116259
