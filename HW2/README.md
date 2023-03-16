@@ -18,10 +18,8 @@ https://zhuanlan.zhihu.com/p/571116259
 https://www.cnblogs.com/eat-too-much/p/15738191.html
 
 https://www.cnblogs.com/eat-too-much/p/15737925.html
-<<<<<<< HEAD
-=======
 
-https://zhuanlan.zhihu.com/p/571116259
+
 
 
 Ron Fedkiw    http://physbam.stanford.edu/~fedkiw/
