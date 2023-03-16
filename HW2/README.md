@@ -21,6 +21,9 @@ https://zhuanlan.zhihu.com/p/571116259
 
 
 Ron Fedkiw    http://physbam.stanford.edu/~fedkiw/
+
 Robert Bridson       https://www.cs.ubc.ca/~rbridson/
+
 Andy Witkin  https://www.cs.cmu.edu/~aw/
+
 David Baraff  http://www.cs.cmu.edu/~baraff/
