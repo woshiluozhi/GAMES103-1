@@ -18,3 +18,17 @@ https://zhuanlan.zhihu.com/p/571116259
 https://www.cnblogs.com/eat-too-much/p/15738191.html
 
 https://www.cnblogs.com/eat-too-much/p/15737925.html
+<<<<<<< HEAD
+=======
+
+https://zhuanlan.zhihu.com/p/571116259
+
+
+Ron Fedkiw    http://physbam.stanford.edu/~fedkiw/
+
+Robert Bridson       https://www.cs.ubc.ca/~rbridson/
+
+Andy Witkin  https://www.cs.cmu.edu/~aw/
+
+David Baraff  http://www.cs.cmu.edu/~baraff/
+>>>>>>> 93c0f85a193773a7753ad8ffc5f1284d0656b808
