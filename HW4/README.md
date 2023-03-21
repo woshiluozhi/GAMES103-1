@@ -1,5 +1,17 @@
 # Lab 4: Pool Ripples
 
+
+
+64行代码求解incompressible Navier Stokes方程
+
+
+
+https://github.com/woshiluozhi/MaterialPointMethodCollections.git
+
+
+
+
+
 ## 作业提交时间（22.01.17）
 - [提交地址](http://www.smartchair.org/GAMES103)
 
