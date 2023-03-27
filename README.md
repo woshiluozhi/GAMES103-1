@@ -6,8 +6,6 @@ https://iamhxb.github.io/iamhxb/
 
 https://zhuanlan.zhihu.com/p/546551742
 
-https://iamhxb.github.io/iamhxb/
-
 # GAMES103 HomeWork 
 
 ## Lab 1: [Angry Bunny](./HW1/) 
